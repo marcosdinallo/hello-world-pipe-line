@@ -26,4 +26,4 @@ workflows:
       - print_hello
       - print_world:
         requires:
-          - print_ hello
+          - print_hello
